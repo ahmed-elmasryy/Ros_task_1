@@ -1,0 +1,2 @@
+[console_scripts]
+publisher = pkg_1.publisher

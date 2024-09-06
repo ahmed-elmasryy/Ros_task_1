@@ -1,0 +1,22 @@
+[1.102s] Invoking command in '/home/ahmed-elmasry/ws1/src/pkg_1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ahmed-elmasry/ws1/src/build/pkg_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/pkg_1 build --build-base /home/ahmed-elmasry/ws1/src/build/pkg_1/build install --record /home/ahmed-elmasry/ws1/src/build/pkg_1/install.log --single-version-externally-managed install_data
+[1.444s] running egg_info
+[1.470s] writing ../build/pkg_1/pkg_1.egg-info/PKG-INFO
+[1.470s] writing dependency_links to ../build/pkg_1/pkg_1.egg-info/dependency_links.txt
+[1.470s] writing entry points to ../build/pkg_1/pkg_1.egg-info/entry_points.txt
+[1.470s] writing requirements to ../build/pkg_1/pkg_1.egg-info/requires.txt
+[1.470s] writing top-level names to ../build/pkg_1/pkg_1.egg-info/top_level.txt
+[1.524s] reading manifest file '../build/pkg_1/pkg_1.egg-info/SOURCES.txt'
+[1.525s] writing manifest file '../build/pkg_1/pkg_1.egg-info/SOURCES.txt'
+[1.526s] running build
+[1.526s] running build_py
+[1.526s] running install
+[1.534s] running install_lib
+[1.560s] running install_data
+[1.560s] running install_egg_info
+[1.587s] removing '/home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1-0.0.0-py3.12.egg-info' (and everything under it)
+[1.587s] Copying ../build/pkg_1/pkg_1.egg-info to /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1-0.0.0-py3.12.egg-info
+[1.588s] running install_scripts
+[1.768s] Installing publisher script to /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/pkg_1
+[1.768s] Installing service script to /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/pkg_1
+[1.769s] writing list of installed files to '/home/ahmed-elmasry/ws1/src/build/pkg_1/install.log'
+[1.807s] Invoked command in '/home/ahmed-elmasry/ws1/src/pkg_1' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ahmed-elmasry/ws1/src/build/pkg_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/pkg_1 build --build-base /home/ahmed-elmasry/ws1/src/build/pkg_1/build install --record /home/ahmed-elmasry/ws1/src/build/pkg_1/install.log --single-version-externally-managed install_data

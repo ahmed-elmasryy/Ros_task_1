@@ -1,0 +1,39 @@
+running egg_info
+creating ../build/pkg_1/pkg_1.egg-info
+writing ../build/pkg_1/pkg_1.egg-info/PKG-INFO
+writing dependency_links to ../build/pkg_1/pkg_1.egg-info/dependency_links.txt
+writing entry points to ../build/pkg_1/pkg_1.egg-info/entry_points.txt
+writing requirements to ../build/pkg_1/pkg_1.egg-info/requires.txt
+writing top-level names to ../build/pkg_1/pkg_1.egg-info/top_level.txt
+writing manifest file '../build/pkg_1/pkg_1.egg-info/SOURCES.txt'
+reading manifest file '../build/pkg_1/pkg_1.egg-info/SOURCES.txt'
+writing manifest file '../build/pkg_1/pkg_1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ahmed-elmasry/ws1/src/build/pkg_1/build
+creating /home/ahmed-elmasry/ws1/src/build/pkg_1/build/lib
+creating /home/ahmed-elmasry/ws1/src/build/pkg_1/build/lib/pkg_1
+copying pkg_1/__init__.py -> /home/ahmed-elmasry/ws1/src/build/pkg_1/build/lib/pkg_1
+copying pkg_1/service.py -> /home/ahmed-elmasry/ws1/src/build/pkg_1/build/lib/pkg_1
+copying pkg_1/publisher.py -> /home/ahmed-elmasry/ws1/src/build/pkg_1/build/lib/pkg_1
+running install
+running install_lib
+creating /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1
+copying /home/ahmed-elmasry/ws1/src/build/pkg_1/build/lib/pkg_1/__init__.py -> /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1
+copying /home/ahmed-elmasry/ws1/src/build/pkg_1/build/lib/pkg_1/service.py -> /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1
+copying /home/ahmed-elmasry/ws1/src/build/pkg_1/build/lib/pkg_1/publisher.py -> /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1
+byte-compiling /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1/service.py to service.cpython-312.pyc
+byte-compiling /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1/publisher.py to publisher.cpython-312.pyc
+running install_data
+creating /home/ahmed-elmasry/ws1/src/install/pkg_1/share/ament_index
+creating /home/ahmed-elmasry/ws1/src/install/pkg_1/share/ament_index/resource_index
+creating /home/ahmed-elmasry/ws1/src/install/pkg_1/share/ament_index/resource_index/packages
+copying resource/pkg_1 -> /home/ahmed-elmasry/ws1/src/install/pkg_1/share/ament_index/resource_index/packages
+copying package.xml -> /home/ahmed-elmasry/ws1/src/install/pkg_1/share/pkg_1
+running install_egg_info
+Copying ../build/pkg_1/pkg_1.egg-info to /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/python3.12/site-packages/pkg_1-0.0.0-py3.12.egg-info
+running install_scripts
+Installing publisher script to /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/pkg_1
+Installing service script to /home/ahmed-elmasry/ws1/src/install/pkg_1/lib/pkg_1
+writing list of installed files to '/home/ahmed-elmasry/ws1/src/build/pkg_1/install.log'

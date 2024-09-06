@@ -1,0 +1,35 @@
+[1.345s] Invoking command in '/home/ahmed-elmasry/ws1/src/task_1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ahmed-elmasry/ws1/src/build/task_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ahmed-elmasry/ws1/src/install/task_1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task_1 build --build-base /home/ahmed-elmasry/ws1/src/build/task_1/build install --record /home/ahmed-elmasry/ws1/src/build/task_1/install.log --single-version-externally-managed install_data
+[1.754s] running egg_info
+[1.755s] creating ../build/task_1/task_1.egg-info
+[1.779s] writing ../build/task_1/task_1.egg-info/PKG-INFO
+[1.781s] writing dependency_links to ../build/task_1/task_1.egg-info/dependency_links.txt
+[1.781s] writing requirements to ../build/task_1/task_1.egg-info/requires.txt
+[1.781s] writing top-level names to ../build/task_1/task_1.egg-info/top_level.txt
+[1.782s] writing manifest file '../build/task_1/task_1.egg-info/SOURCES.txt'
+[1.837s] reading manifest file '../build/task_1/task_1.egg-info/SOURCES.txt'
+[1.837s] writing manifest file '../build/task_1/task_1.egg-info/SOURCES.txt'
+[1.838s] running build
+[1.838s] running build_py
+[1.838s] creating /home/ahmed-elmasry/ws1/src/build/task_1/build
+[1.838s] creating /home/ahmed-elmasry/ws1/src/build/task_1/build/lib
+[1.839s] creating /home/ahmed-elmasry/ws1/src/build/task_1/build/lib/task_1
+[1.839s] copying task_1/__init__.py -> /home/ahmed-elmasry/ws1/src/build/task_1/build/lib/task_1
+[1.839s] copying task_1/node_1.py -> /home/ahmed-elmasry/ws1/src/build/task_1/build/lib/task_1
+[1.839s] running install
+[1.847s] running install_lib
+[1.875s] creating /home/ahmed-elmasry/ws1/src/install/task_1/lib/python3.12/site-packages/task_1
+[1.875s] copying /home/ahmed-elmasry/ws1/src/build/task_1/build/lib/task_1/__init__.py -> /home/ahmed-elmasry/ws1/src/install/task_1/lib/python3.12/site-packages/task_1
+[1.875s] copying /home/ahmed-elmasry/ws1/src/build/task_1/build/lib/task_1/node_1.py -> /home/ahmed-elmasry/ws1/src/install/task_1/lib/python3.12/site-packages/task_1
+[1.876s] byte-compiling /home/ahmed-elmasry/ws1/src/install/task_1/lib/python3.12/site-packages/task_1/__init__.py to __init__.cpython-312.pyc
+[1.877s] byte-compiling /home/ahmed-elmasry/ws1/src/install/task_1/lib/python3.12/site-packages/task_1/node_1.py to node_1.cpython-312.pyc
+[1.877s] running install_data
+[1.877s] creating /home/ahmed-elmasry/ws1/src/install/task_1/share/ament_index
+[1.878s] creating /home/ahmed-elmasry/ws1/src/install/task_1/share/ament_index/resource_index
+[1.878s] creating /home/ahmed-elmasry/ws1/src/install/task_1/share/ament_index/resource_index/packages
+[1.878s] copying resource/task_1 -> /home/ahmed-elmasry/ws1/src/install/task_1/share/ament_index/resource_index/packages
+[1.878s] copying package.xml -> /home/ahmed-elmasry/ws1/src/install/task_1/share/task_1
+[1.879s] running install_egg_info
+[1.910s] Copying ../build/task_1/task_1.egg-info to /home/ahmed-elmasry/ws1/src/install/task_1/lib/python3.12/site-packages/task_1-0.0.0-py3.12.egg-info
+[1.912s] running install_scripts
+[2.094s] writing list of installed files to '/home/ahmed-elmasry/ws1/src/build/task_1/install.log'
+[2.149s] Invoked command in '/home/ahmed-elmasry/ws1/src/task_1' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ahmed-elmasry/ws1/src/build/task_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ahmed-elmasry/ws1/src/install/task_1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task_1 build --build-base /home/ahmed-elmasry/ws1/src/build/task_1/build install --record /home/ahmed-elmasry/ws1/src/build/task_1/install.log --single-version-externally-managed install_data
